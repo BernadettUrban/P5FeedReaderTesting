@@ -16,4 +16,4 @@ there is at least a single .entry element within the .feed container.
 1.	Download the repository.
 2.	Extract the .zip file.
 3.	Open index.html in your browser.
-4.  You can see at the bottom the tests are passed successfully
+4.  You can see at the bottom whether the tests are passed successfully
