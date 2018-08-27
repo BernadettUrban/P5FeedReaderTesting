@@ -1,4 +1,5 @@
 # Feed Reader Testing Project
+<a target="_blank" href="http://github.com/udacity/frontend-nanodegree-feedreader">Project assets</a>
 
 The Jasmine spec file contains all of the tests that will be run against the application.
 1. The 'RSS Feeds' test suite tests to make sure that the allFeeds variable has been defined and that
